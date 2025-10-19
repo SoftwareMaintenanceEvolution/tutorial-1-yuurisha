@@ -4,7 +4,7 @@ Hi! I'm Yourisha, a student in the Software Maintenance and Evolution course.
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
 ![My Image]([(![image](https://github.com/user-attachments/assets/9de74cab-b6d4-4220-b216-0928e774d794)
-)])  <!-- Link to the uploaded image -->
+) <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
